@@ -1,5 +1,8 @@
 # Desafio de Projeto Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE
 
+<p align="left"><img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</p>
+
 **Objetivo:**
 Refine o modelo apresentado acrescentando os seguintes pontos:
 
